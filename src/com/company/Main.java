@@ -20,6 +20,7 @@ public class Main {
             List<String> stringList = Arrays.asList("a", "b");
             for (String s : stringList) {
                 if (s != null) {
+                    final int i = 5;
 
                 }
             }
