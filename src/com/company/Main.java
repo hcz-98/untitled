@@ -21,6 +21,8 @@ public class Main {
             for (String s : stringList) {
                 if (s != null) {
                     final int i = 5;
+                    Student student =new Student();
+
 
                 }
             }
